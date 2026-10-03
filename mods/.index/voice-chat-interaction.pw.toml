@@ -1,0 +1,21 @@
+filename = 'vcinteraction-fabric-1.0.8+26.1.2.jar'
+name = 'Voice Chat Interaction'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'fabric-1.0.8+26.1.2'
+
+[download]
+hash = 'f44a72be317546acb1c44caf9d52561bb57fed392e2e6e3827b21b91d2b44f3497342c01d68309a8a2ba5973b9212493536c904b1da49208b98d34b22b760099'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qsSP2ZZ0/versions/iOesV3fA/vcinteraction-fabric-1.0.8%2B26.1.2.jar'
+
+[update.modrinth]
+mod-id = 'qsSP2ZZ0'
+version = 'iOesV3fA'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'

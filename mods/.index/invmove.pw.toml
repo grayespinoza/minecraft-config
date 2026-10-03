@@ -1,0 +1,33 @@
+filename = 'InvMove-0.9.6+26.1.2-Fabric.jar'
+name = 'InvMove'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.9.6+26.1.2-fabric'
+
+[download]
+hash = 'e93f0c80879cf25308f2353ab1ef8413a4b8339a6bc51905226a92ab9a5ccc1c7cc0f755d0427603e40871b3baed68d74f57b61683f784d674810fb43f311ec4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/REfW2AEX/versions/AtftB9Jj/InvMove-0.9.6%2B26.1.2-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'REfW2AEX'
+version = 'AtftB9Jj'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6IpcGP7T'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

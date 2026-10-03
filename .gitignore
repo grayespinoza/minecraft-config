@@ -1,6 +1,11 @@
+.fabric/
+cache/
 command_history.txt
+data/
 downloads/
 icon.png
 logs/
+mods/*.jar
+realms_persistence.json
 saves/
 usercache.json
