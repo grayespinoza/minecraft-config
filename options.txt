@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla"]
+resourcePacks:["vanilla","file/VanillaTweaks_MC26.1.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Theone\u0027s Eating Animation Pack v1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
