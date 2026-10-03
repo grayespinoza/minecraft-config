@@ -1,0 +1,29 @@
+filename = 'lambdynamiclights-4.11.2+26.1.2.jar'
+name = 'LambDynamicLights - Dynamic Lights'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.11.2+26.1.2'
+
+[download]
+hash = 'bd9f12a60b04f93420d23af9b3e17fb8c91c705273c0257debb044f9672f1e8bc2367b5941bdc22dc48d6cc4f34e52e483fd0721516077bc056a47dc3da573d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yBW8D80W/versions/USlEyPPR/lambdynamiclights-4.11.2%2B26.1.2.jar'
+
+[update.modrinth]
+mod-id = 'yBW8D80W'
+version = 'USlEyPPR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'PxQSWIcD'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'reCfnRvJ'
+type = 'INCOMPATIBLE'

@@ -8,4 +8,5 @@ logs/
 mods/*.jar
 realms_persistence.json
 saves/
+shaderpacks/*.zip
 usercache.json
