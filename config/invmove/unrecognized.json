@@ -2,7 +2,12 @@
   "allowMovement": {
     "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
     "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
-    "net.minecraft.client.gui.screens.PauseScreen": true
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.caffeinemc.mods.sodium.client.gui.VideoSettingsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true
   },
   "hideBackground": {}
 }
