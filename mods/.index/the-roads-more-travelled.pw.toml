@@ -1,0 +1,18 @@
+filename = 'trmt-0.5.1-26.1.x-fabric.jar'
+name = 'The Roads More Travelled [TRMT]'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.5.1-26.1.x-fabric'
+
+[download]
+hash = '8c1a28c37207bd5f7d6ff4cec18df8930fd97fbc7c6cd2766e88da5dab0e631060b480688406e617481fd34bd1a7746f49fbe49cffa24d3f6518741ffd436abd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/74oZhrEe/versions/upQW20Wx/trmt-0.5.1-26.1.x-fabric.jar'
+
+[update.modrinth]
+mod-id = '74oZhrEe'
+version = 'upQW20Wx'

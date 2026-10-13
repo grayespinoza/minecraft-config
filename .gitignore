@@ -1,6 +1,7 @@
 .fabric/
 cache/
 command_history.txt
+config/inventoryprofilesnext/
 data/
 downloads/
 icon.png
