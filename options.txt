@@ -21,7 +21,7 @@ gamma:0.1
 guiScale:3
 maxAnisotropyBit:2
 textureFiltering:2
-maxFps:90
+maxFps:60
 improvedTransparency:false
 inactivityFpsLimit:"afk"
 mipmapLevels:4
