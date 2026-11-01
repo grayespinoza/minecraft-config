@@ -1,23 +1,23 @@
-filename = 'sounds-2.5.2+lts+26.1.2-fabric.jar'
+filename = 'sounds-2.6.0+26.1.2-fabric.jar'
 name = 'Sounds'
 side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.5.2+lts+26.1-fabric'
+x-prismlauncher-version-number = '2.6.0+26.1.2-fabric'
 
 [download]
-hash = '191bc81f1aa2eb2690d97cde36f5e6f726c4a709e988c7093ba8d8174d21a3067ef1dfc6548b7547074abaac8fcce1c1d290fc7bc47bfce4fe994110f16efb2e'
+hash = '071f6396a8cc4dc618ddaf73ca904a7dddd2e0386ecef7850c22f1602d6b623cdfffe2fe94a33123387c9d0426e1e9ef4b5a9e1f24772c11848ca5e9373cc438'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/sEUXwXuq/sounds-2.5.2%2Blts%2B26.1.2-fabric.jar'
+url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/MapuhewT/sounds-2.6.0%2B26.1.2-fabric.jar'
 
 [update.modrinth]
 mod-id = 'ZouiUX7t'
-version = 'sEUXwXuq'
+version = 'MapuhewT'
 
 [[x-prismlauncher-dependencies]]
-addonId = '1eAoo2KR'
+addonId = 'P7dR8mSH'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -25,9 +25,5 @@ addonId = 'SNVQ2c0g'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'SKW62Pht'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
+addonId = '1eAoo2KR'
 type = 'REQUIRED'
