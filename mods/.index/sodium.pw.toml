@@ -1,18 +1,18 @@
-filename = 'sodium-fabric-0.9.1+mc26.1.2.jar'
+filename = 'sodium-fabric-0.9.3-beta.3+mc26.3.jar'
 name = 'Sodium'
 side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'mc26.1.2-0.9.1-fabric'
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'mc26.3-0.9.3-beta.3-fabric'
 
 [download]
-hash = 'bf7e242a4df5a70be567ad58e262eea7db54b92333994331b57dc13f2ed36e22d1cf6609e4e76582d3173d5ffdcde9534441164bc9b70560f3d764affcc16ad3'
+hash = 'c5ae8fc39fb36ee2e4b74fd8dae712b334052ccf6be7908d9b79233d9a772a070d9296f1bb439e79d0863a298a9684e94ae18e3d45174b8ec779b1f63b7ca964'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/AANobbMI/versions/vf7UgZpC/sodium-fabric-0.9.1%2Bmc26.1.2.jar'
+url = 'https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar'
 
 [update.modrinth]
 mod-id = 'AANobbMI'
-version = 'vf7UgZpC'
+version = 'aFVpk3tG'

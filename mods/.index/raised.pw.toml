@@ -1,20 +1,20 @@
-filename = 'raised-fabric-26.1.2-6.0.2.jar'
+filename = 'raised-fabric-26.3-6.0.2.jar'
 name = 'Raised'
 side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Fabric-26.1.2-6.0.2'
+x-prismlauncher-version-number = 'Fabric-26.3-6.0.2'
 
 [download]
-hash = 'c5512f40380e5731d870bd9dce9c7ffeff4edcabd783ce1b2360103868b06e81f4ddda01309734e7cdd3d5bb2a3cb95007059fde937663fabbc6223731ac311a'
+hash = '57e6e651cde34fbd889bbff100577d5756f8d6dc1f66073a3c7512754b05b8ef3960951fbf6af641df5ec60cc4753869750cb9c4ecf97a7c09a828d848fe122e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/nCQRBEiR/versions/13Rq7rQr/raised-fabric-26.1.2-6.0.2.jar'
+url = 'https://cdn.modrinth.com/data/nCQRBEiR/versions/XeTvS6Rx/raised-fabric-26.3-6.0.2.jar'
 
 [update.modrinth]
 mod-id = 'nCQRBEiR'
-version = '13Rq7rQr'
+version = 'XeTvS6Rx'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'

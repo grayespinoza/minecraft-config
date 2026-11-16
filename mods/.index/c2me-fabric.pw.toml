@@ -1,18 +1,18 @@
-filename = 'c2me-fabric-mc26.1.2-0.4.0-alpha.0.65.jar'
+filename = 'c2me-fabric-mc26.3-0.4.2-alpha.0.119.jar'
 name = 'Concurrent Chunk Management Engine (Fabric)'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.4.0-alpha.0.65+26.1.2'
+x-prismlauncher-version-number = '0.4.2-alpha.0.119+26.3'
 
 [download]
-hash = '15c374f57ce6dc867ed7d3529bed43d2894b33a9f83cb0d73fb45e047ddef84b408bfbee7470b596a0afde4726205aac39a4b3ecc8f60ba7c0fe77e13943d97f'
+hash = 'ba50c585ac92588bbe40ed77d2bdac3c22bc2a543165feebe19684730479da52fa8e5bffaebe8801b90d8f7616fd57703b2f2b447807a65061919fb86f887821'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/VSNURh3q/versions/to1sDRnG/c2me-fabric-mc26.1.2-0.4.0-alpha.0.65.jar'
+url = 'https://cdn.modrinth.com/data/VSNURh3q/versions/W9HllAiU/c2me-fabric-mc26.3-0.4.2-alpha.0.119.jar'
 
 [update.modrinth]
 mod-id = 'VSNURh3q'
-version = 'to1sDRnG'
+version = 'W9HllAiU'

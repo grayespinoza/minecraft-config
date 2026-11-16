@@ -1,4 +1,4 @@
-version:4790
+version:5023
 ao:true
 biomeBlendRadius:2
 chunkSectionFadeInTime:0.0
@@ -13,12 +13,15 @@ fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
+preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:true
 exclusiveFullscreen:true
+macFullscreenMenuVisibility:false
 gamma:0.1
 guiScale:3
+debugGuiScale:0
 maxAnisotropyBit:2
 textureFiltering:2
 maxFps:60
@@ -49,7 +52,6 @@ invertYMouse:false
 realmsNotifications:true
 showSubtitles:false
 directionalAudio:false
-touchscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -64,10 +66,10 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/VanillaTweaks_MC26.1.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Theone\u0027s Eating Animation Pack v1.0.zip","file/FreshAnimations_v1.11.1_26.1+.zip","file/FA+Player-v1.1.zip"]
+resourcePacks:["vanilla","file/VanillaTweaks_MC26.3.x.zip","continuity:glass_pane_culling_fix","continuity:default","file/Theone\u0027s Eating Animation Pack v1.0.zip","file/FA+Player-v1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:fil_ph
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -89,8 +91,9 @@ mainHand:"left"
 attackIndicator:1
 tutorialStep:none
 mouseWheelSensitivity:1.0
-rawMouseInput:true
 allowCursorChanges:true
+quitShortcuts:true
+ctrlClickEmulatesRightClick:false
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
@@ -98,6 +101,8 @@ joinedFirstServer:true
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
+inGameNotification:false
+sharePresence:"all"
 onlyShowSecureChat:false
 saveChatDrafts:false
 panoramaScrollSpeed:1.0
@@ -122,6 +127,7 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
+key_key.friends:key.keyboard.o
 key_key.socialInteractions:key.keyboard.p
 key_key.toggleGui:key.keyboard.f1
 key_key.toggleSpectatorShaderEffects:key.keyboard.f4
@@ -167,6 +173,7 @@ key_key.debug.profilingChart:key.keyboard.1
 key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
+key_key.debug.improvedTransparency:key.keyboard.x
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
@@ -176,25 +183,7 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.presencefootsteps.debug_toggle:key.keyboard.unknown
 key_key.raised.options:key.keyboard.grave.accent
-key_key.push_to_talk:key.keyboard.c
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_world_map_server_settings:key.keyboard.unknown
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
-key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
-key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_key.renderscale.options:key.keyboard.u
 key_zoomify.key.zoom:key.keyboard.z
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
@@ -220,4 +209,3 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
-fullscreenResolution:1920x1080@180:24

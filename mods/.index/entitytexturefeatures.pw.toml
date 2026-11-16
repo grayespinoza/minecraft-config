@@ -1,18 +1,18 @@
-filename = 'entity_texture_features-7.2.6-26.1-fabric.jar'
+filename = 'entity_texture_features-7.2.7-26.3-fabric.jar'
 name = '[ETF] Entity Texture Features'
 side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '7.2.6-fabric-26.1'
+x-prismlauncher-version-number = '7.2.7-fabric-26.3'
 
 [download]
-hash = 'a09be994660228b12752ff6429a58e825b2d82f918434fec858699fdaa8cddacd300691d8b944c8741c84532fd70578c6851e453b895bce0420ab106368ada65'
+hash = '69193c58d4d05e08fea9afa34cc47563e9b9e95aa2da276441085ade44ed36f8123b9cc1a2938f9ecac9aea6fd9ceb51120dd20f7284337a3bb592bc3b904336'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BVzZfTc1/versions/2bcqPrsv/entity_texture_features-7.2.6-26.1-fabric.jar'
+url = 'https://cdn.modrinth.com/data/BVzZfTc1/versions/svwZ2o4d/entity_texture_features-7.2.7-26.3-fabric.jar'
 
 [update.modrinth]
 mod-id = 'BVzZfTc1'
-version = '2bcqPrsv'
+version = 'svwZ2o4d'

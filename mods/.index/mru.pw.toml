@@ -1,20 +1,20 @@
-filename = 'mru-1.0.43+26.1.2-fabric.jar'
+filename = 'mru-1.0.45+26.3-fabric.jar'
 name = 'MRU'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.43+26.1.2-fabric'
+x-prismlauncher-version-number = '1.0.45+26.3-fabric'
 
 [download]
-hash = '052c0c966aac4f6f1cbe5eebcc8560aa205af03b835c87c4d4c8b20d7d8090ace49e589b42ceb9d870eb5acbc26e7985ecc986c8b038970d24c0df1314b5ea9b'
+hash = '9b62918f0a78a719fb98ad5f138e17a5640677b7f97cbe0434204cd51cffb9efa1b6231258e4aaf186b3170297b601e05f121e9157fd878f27e00dab9c35d5dc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/jlpq6wlZ/mru-1.0.43%2B26.1.2-fabric.jar'
+url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/22Tvjurn/mru-1.0.45%2B26.3-fabric.jar'
 
 [update.modrinth]
 mod-id = 'SNVQ2c0g'
-version = 'jlpq6wlZ'
+version = '22Tvjurn'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
